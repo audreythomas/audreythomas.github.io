@@ -9,10 +9,10 @@ My GitHub page is http://github.com/audreythomas.
 ### CPSC 120
 
 * Lab 4
-    Lab 4 is my favorite because of the complexity of using code to calculate measurements of volume from milliliters in the metric system. I learned how to declare double variables and practice using cin and cout in the code. Also inputting one result to get the different measurement options.
+     is my favorite because of the complexity of using code to calculate measurements of volume from milliliters in the metric system. I learned how to declare double variables and practice using cin and cout in the code. Also inputting one result to get the different measurement options.
 
 *Lab 6 
-    labe 6 part 2 is my favorite because I was able to code a game that I know how to play and use differnt techniques like using a bool. Also working with multiple functions to create the game made this the best part. 
+     part two is my favorite because I was able to code a game that I know how to play and use differnt techniques like using a bool. Also working with multiple functions to create the game made this the best part. 
 
 * Lab 8 
-    Lab 8 part one is my favorite because I was able to code with three arguements to create a sandwich pattern of bread, protein, and a condiment. I enjoyed playing with this code when it was finished because of the different results each time. Also using a shell command to run the code was cool to use.
+    part one is my favorite because I was able to code with three arguements to create a sandwich pattern of bread, protein, and a condiment. I enjoyed playing with this code when it was finished because of the different results each time. Also using a shell command to run the code was cool to use.
