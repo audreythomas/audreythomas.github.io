@@ -11,7 +11,7 @@ My GitHub page is http://github.com/audreythomas.
 * Lab 4
      is my favorite because of the complexity of using code to calculate measurements of volume from milliliters in the metric system. I learned how to declare double variables and practice using cin and cout in the code. Also inputting one result to get the different measurement options.
 
-*Lab 6 
+* Lab 6 
      part two is my favorite because I was able to code a game that I know how to play and use differnt techniques like using a      bool. Also working with multiple functions to create the game made this the best part. 
 
 * Lab 8 
